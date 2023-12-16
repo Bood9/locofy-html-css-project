@@ -202,12 +202,7 @@
   left: 6.86%;
   text-align: right;
 }
-.component-26-icon {
-  position: relative;
-  width: 28px;
-  height: 8px;
-  object-fit: cover;
-}
+
 .div14 {
   position: relative;
   line-height: 100%;
@@ -1514,4 +1509,22 @@
   font-size: var(--font-size-sm);
   color: var(--text-header);
   font-family: var(--font-sf-pro-display);
+}
+
+.div247{
+    position: absolute;
+    top: 1100px;
+    left: 65px;
+    line-height: 148%;
+    font-weight: 500;
+   
+}
+.lg-icon{
+    position: absolute;
+    top: 1100px;
+    left: 150px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: cover;
 }
